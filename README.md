@@ -6,3 +6,4 @@ A GH repository for testing purpose.
 
 New line.
 New line.
+New line.
